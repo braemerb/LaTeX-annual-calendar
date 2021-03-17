@@ -1,5 +1,4 @@
 # LaTeX Annual Calendar
-======================
 
 ## Introduction
 
