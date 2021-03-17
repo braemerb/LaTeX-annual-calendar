@@ -1,0 +1,21 @@
+\documentclass{tikz-kalender}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\setup{
+	paper=letter,
+	print=true,
+	year=2021,
+	title={Annual calendar},
+	showweeknumbers,
+	titleColor=black,
+	monthBGcolor=black,
+	saturdayColor=blue!20,
+	sundayColor=blue!40,
+	eventColor=red,
+	periodColor=gray!20,
+	lang=american,
+	events={events/Trash_2021,events/Recycling_2021,events/Holiday_2021,events/German_holidays_2021}
+}
+\begin{document}
+\makeKalender
+\end{document}

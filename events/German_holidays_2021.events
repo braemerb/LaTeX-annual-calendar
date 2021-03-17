@@ -1,0 +1,23 @@
+\event*{\year-01-01}{Neujahr}
+\event*{\year-01-06}{Heilige Drei Könige}
+\event*{\year-05-01}{Tag der Arbeit}
+\event*{\year-08-15}{Mariä Himmelfahrt}
+\event*{\year-10-03}{Tag der deutschen Einheit}
+\event*{\year-11-01}{Allerheiligen}
+\event{\year-12-24}{Heiligabend}
+\event*{\year-12-25}{1. Weihnachtstag}
+\event*{\year-12-26}{2. Weihnachtstag}
+\event{2021-02-17}{Aschermittwoch}
+\event{2021-04-01}{Gründonnerstag}
+\event*{2021-04-02}{Karfreitag}
+\event*{2021-04-04}{Ostern}
+\event*{2021-04-05}{Ostermontag}
+\event*{2021-05-13}{Christi Himmelfahrt}
+\event*{2021-05-23}{Pfingsten}
+\event*{2021-05-24}{Pfingstmontag}
+\event*{2021-06-03}{Fronleichnam}
+\event{2021-11-28}{1. Advent}
+\event{2021-12-05}{2. Advent}
+\event{2021-12-12}{3. Advent}
+\event{2021-12-19}{4. Advent}
+\endinput
